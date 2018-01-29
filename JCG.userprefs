@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E943638F-27E0-44A0-B45B-D77A5B9D6AD6}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.JCG.Droid PreferredExecutionTarget="Android.192.168.11.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JCG\TimeTablePage.xaml.cs">
+    <Files>
+      <File FileName="JCG\TimeTablePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="JCG\SettingsPage.xaml" Line="1" Column="1" />
+      <File FileName="JCG\SettingsPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="JCG\EventsDetailPage.xaml" Line="1" Column="1" />
+      <File FileName="JCG\EventsDetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="JCG\JCG.cs" Line="1" Column="1" />
+      <File FileName="JCG\MainCarouselPage.cs" Line="1" Column="1" />
+      <File FileName="Droid\ActionBarRenderer.cs" Line="1" Column="1" />
+      <File FileName="Droid\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="Droid\MainCarouselPage.cs" Line="1" Column="1" />
+      <File FileName="JCG\Event.cs" Line="1" Column="1" />
+      <File FileName="Droid\obj\Debug\JCG.Droid.C_.Users.Lukas.Documents.Projects.JCG.JCG.EventsPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="Droid\Resources\values\styles.xml" Line="1" Column="1" />
+      <File FileName="Droid\Resources\values\colors.xml" Line="1" Column="1" />
+      <File FileName="JCG\EventsPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

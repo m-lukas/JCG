@@ -1,0 +1,2 @@
+android.app.Application
+me.arccex.jcg.jcg
